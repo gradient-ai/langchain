@@ -9,7 +9,7 @@
 ---
 Please note if you get an error "TypeError: issubclass() arg 1 must be a class"
 use 
-!!pip install --force-reinstall typing-extensions==4.5.0
+!pip install --force-reinstall typing-extensions==4.5.0
 and restart the kernel
 
 [![Release Notes](https://img.shields.io/github/release/langchain-ai/langchain)](https://github.com/langchain-ai/langchain/releases)
