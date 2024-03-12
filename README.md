@@ -7,7 +7,10 @@
 [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/langchain?machine=Free-GPU)
 
 ---
-
+Please note if you get an error "TypeError: issubclass() arg 1 must be a class"
+use 
+!!pip install --force-reinstall typing-extensions==4.5.0
+and restart the kernel
 
 [![Release Notes](https://img.shields.io/github/release/langchain-ai/langchain)](https://github.com/langchain-ai/langchain/releases)
 [![CI](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml/badge.svg)](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml)
